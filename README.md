@@ -1,1 +1,1 @@
-# bat2exe
+certutil batfile.bat target.exe
